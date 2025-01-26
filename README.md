@@ -25,5 +25,3 @@ $ rm ~/Downloads/tabliss-config/ -rf
 ```
 
 ~ notarkhit.
-
-
