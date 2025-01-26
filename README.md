@@ -17,7 +17,19 @@ homepage
 settings tab (dark theme)
 ![img](https://github.com/notarkhit/tabliss-config/blob/3f9f14d947cee2547359f007e899643b61123124/screenshots/tabliss-settings-windows.png)
 
-usage :
+usage : 
+
+## direct method
+
+- Install [tabliss](https://tabliss.io) browser extension. 
+
+- Go to the [releases](https://github.com/notarkhit/tabliss-config/releases) section and download the latest release for your operating system.
+
+- After enabling tabliss, go to tabliss settings.
+
+- import the json file.
+
+## shell
 
 ```shell
 $ cd ~/Downloads/
